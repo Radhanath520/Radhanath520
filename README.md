@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Radhanath
+- 👋 Hi, I’m Radhanath
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Coding in C & C++
 - 📫 How to reach me gopishwarmahadeva@gmail.com
